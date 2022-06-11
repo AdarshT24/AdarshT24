@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adarsh Tripathi</h1>
-<h3 align="center">CyberSecurity & Blockchain Development Enthusiast</h3>
+<h3 align="center">Cyber Security & Blockchain Development Enthusiast | Entrepreneurship</h3>
 
-- 🔭 I’m currently working on *Web development & Blockchain*
+- 🔭 I’m currently working on **Web development & Blockchain**
 
-- 🌱 I’m currently learning *HTML | CSS | JAVASCRIPT*
+- 🌱 I’m currently learning **HTML | CSS |JAVASCRIPT**
 
-- 💬 Ask me about *Python*
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me *AdarshTripathi74@gmail.com*
+- 📫 How to reach me **AdarshTripathi74@gmail.com**
 
-- ⚡ Fun fact *I am a Fitness Freak*
+- ⚡ Fun fact **I am a Fitness Freak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
