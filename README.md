@@ -10,7 +10,8 @@
 - 📫 How to reach me **AdarshTripathi74@gmail.com**
 
 - ⚡ Fun fact **I am a Fitness Freak**
-- ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshT24&theme=blueberry_icons=true)
+
+[![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshT24&theme=blueberry_icons=true)](https://camo.githubusercontent.com/475ed5db424ae637e1567a086a32039b4c9082d0e0a319f89fdae3dc0d552f1f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d646973636f72645f6f6c645f626c7572706c65)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
