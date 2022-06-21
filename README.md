@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a Fitness Freak**
 
-https://camo.githubusercontent.com/0ae30bcee9edc9c0f5d5e5153043b2684d2ec1f1e2bdc4971180d3269fca99ba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6f757472756e
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshT24&theme=dark&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
